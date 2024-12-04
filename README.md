@@ -32,7 +32,7 @@ This project is a Role-Based Access Control (RBAC) application built using React
 1. Clone the repository:
    ```bash
    git clone https://github.com/ViswaniDonthu/RBAC.git
-   cd RBAC/rbacapp
+   cd RBAC/rbacfiles
 
 2. Install dependencies:
 
